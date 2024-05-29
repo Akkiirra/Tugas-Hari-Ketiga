@@ -1,0 +1,15 @@
+.header{
+  display: flex;
+  text-align: center;
+ 
+}
+
+.Menu{
+  
+  justify-self: center;
+}
+
+.container{
+  color: rgb(19, 12, 26);
+  margin: 100px;
+}
